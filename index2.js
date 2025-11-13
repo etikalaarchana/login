@@ -10,4 +10,5 @@ function signup(userName) {
         return "Signup Successful, Please Login";
     }
 }
-
+console.log(signup("alex"));  
+console.log(signup("emma"));
